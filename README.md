@@ -1,0 +1,2 @@
+# negotiai
+AI Negotiation App
